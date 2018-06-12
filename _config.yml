@@ -11,6 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#c0ffee'
 twitter_username: alejandromangione
 github_username:  alejandromangione
+resume_url: https://docs.google.com/document/d/1uePUZygRd8TBpgQpXVqanq4sbLIYZmlWRNr9DpQoeUw/preview
 author: Alejandro Mangione
 logo: assets/images/large-logo.png
 twitter:
